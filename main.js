@@ -1,5 +1,5 @@
 const { app, BrowserWindow, ipcMain } = require('electron');
-const { Stagehand } = require('@browserbase/stagehand');
+const { Stagehand } = require('@browserbasehq/stagehand');
 require('dotenv').config();
 
 let mainWindow;

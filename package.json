@@ -7,7 +7,7 @@
     "start": "electron ."
   },
   "dependencies": {
-    "@browserbase/stagehand": "^1.0.0",
+    "@browserbasehq/stagehand": "^3.0.0",
     "dotenv": "^16.4.5"
   },
   "devDependencies": {
